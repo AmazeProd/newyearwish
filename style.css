@@ -1,0 +1,48 @@
+body {
+    background-image: url("images (10).jpeg")
+}
+
+.op{
+  color:blue;
+  font-size: 40px;
+  font-family: italic;
+  font-family: "Times New Roman", Times, serif;
+  
+}
+.x{
+  color:green;
+  font-size: 30px;
+  font-family: "Times New Roman",Times,serif;
+}
+#ab{
+  text-align: center;
+  
+  
+}
+.atart{
+  background-color: white;
+  text-align: center;
+  margin-left: 20px;
+  width: 350px;
+  height: 600px;
+  
+  padding-top: 30px;
+  margin-top: 10%;border-radius: 20px;
+  padding-bottom: 40px;
+  border:2px solid red;
+  background-image: url("images (11).jpeg");
+  background-repeat: no-repeat;
+  background-size: 1000px,600px;
+}
+.z{
+  font-family: "Times New Roman", Times, serif;
+  
+}
+.io{
+
+  
+}
+
+  
+
+  
